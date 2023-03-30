@@ -1,0 +1,13 @@
+{
+  "private": "true",
+  "scripts": {
+    "lint": "awesome-lint README.md",
+    "cleanup": "node scripts/cleanup.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^4.2.0",
+    "awesome-lint": "^0.18.2",
+    "p-limit": "^4.0.0"
+  }
+}
