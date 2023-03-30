@@ -83,6 +83,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - GitHub actions error and coverage reporter for vitest.
 - [vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 
 - [nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
+- [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## Projects Using Vue.js
 
@@ -96,4 +97,23 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vue-markdown](https://github.com/mdit-vue/vite-plugin-vue-markdown) - Compile Markdown to Vue component
 - [mdit-vue](https://github.com/mdit-vue/mdit-vue) - markdown-it plugins for Vue.js
 - [element-plus](https://github.com/element-plus/element-plus) - A Vue.js 3 UI Library made by Element team
-- [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [unocss-plugin-transform](https://github.com/conver-unocss/unocss-plugin-transform) - This library is to convert CSS to UnoCss.
+- [unplugin-vue-prop](https://github.com/elonehoo/unplugin-vue-prop) - About
+Add import define props type support for Vue3 script-setup and lang is typescript
+- [ni](https://github.com/antfu/ni) - Use the right package manager
+- [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components on-demand universally.
+- [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto importing for Vue
+- [vue-template-promise](https://github.com/antfu/vue-template-promise) - Template as Promise in Vue
+- [taze](https://github.com/antfu/taze) - A modern cli tool that keeps your deps fresh
+- [vite-ssg](https://github.com/antfu/vite-ssg) - Static site generation for Vue 3 on Vite
+- [Vue Macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
+- [elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+- [vue-hooks-form](https://github.com/vue-hooks-form/vue-hooks-form) - Vue Composition API for validating form.
+- [vi-fetch](https://github.com/sheremet-va/vi-fetch) - Easiest way to mock fetch
+- [pinia](https://github.com/vuejs/pinia) - Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- [unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
+- [consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser
+- [nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+- [h3](https://github.com/unjs/h3) - Minimal h(ttp) framework built for high performance and portability
+- [ofetch](https://github.com/unjs/ofetch) - A better fetch API. Works on node, browser and workers.
+- [vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
