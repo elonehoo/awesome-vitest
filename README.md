@@ -81,7 +81,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest) - eslint plugin for vitest.
 - [vitest-github-actions-reporter](https://github.com/sapphi-red/vitest-github-actions-reporter) - Vitest reporter to create annotations when running tests in GitHub Actions
 - [vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - GitHub actions error and coverage reporter for vitest.
-
+- [vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 
+- [nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
 
 ## Projects Using Vue.js
 
@@ -89,8 +90,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vue.js](https://github.com/vuejs/core) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [Vite.js](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [tinyspy](https://github.com/tinylibs/tinyspy) - minimal fork of nanospy, with more features
-- [vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 
-- [nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
