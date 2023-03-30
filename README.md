@@ -42,6 +42,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Learn Vitest and Testing Library In 40 Minutes](https://www.youtube.com/watch?v=FJRuG85tXV0)
 - [How to test Vite projects using Vitest](https://www.youtube.com/watch?v=rBdGDiwVyes)
 - [Vitest: testing DX reimagined, Vladimir, ViteConf 2022](https://www.youtube.com/watch?v=oB553Noerlc)
+- [【Vitest 入门系列】Vitest 的初体验 | 前端新一代的测试框架 | 快快快](https://www.bilibili.com/video/BV1mg41167VX/?vd_source=0233b34ff2aaf46322241da1201a50b9)
 
 ### Official Resources
 
@@ -80,7 +81,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest) - eslint plugin for vitest.
 - [vitest-github-actions-reporter](https://github.com/sapphi-red/vitest-github-actions-reporter) - Vitest reporter to create annotations when running tests in GitHub Actions
 - [vitest-plugin-github-actions](https://github.com/elonehoo/vitest-plugin-github-actions) - GitHub actions error and coverage reporter for vitest.
-- [【Vitest 入门系列】Vitest 的初体验 | 前端新一代的测试框架 | 快快快](https://www.bilibili.com/video/BV1mg41167VX/?vd_source=0233b34ff2aaf46322241da1201a50b9)
+
 
 ## Projects Using Vue.js
 
