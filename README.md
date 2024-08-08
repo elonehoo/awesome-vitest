@@ -84,6 +84,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitest-preview](https://github.com/nvh95/vitest-preview) - Debug your Vitest tests. Effortlessly. 
 - [nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development Vitest environment with support for testing code that needs a Nuxt runtime environment.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [vitest-mms](https://github.com/danielpza/vitest-mms) - mongodb-memory-server integration for vitest
 
 ## Projects Using Vue.js
 
